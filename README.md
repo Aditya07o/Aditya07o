@@ -1,6 +1,6 @@
 ## Hi, I'm Aditya ✨
 
-I'm a Computer Engineering student who loves building things that actually make an impact.
+I'm a Computer Engineering student who loves building things that actually make an impact.<br/>
 If something interests me, I don’t just learn it… I build with it 🚀
 
 ## 🌐 Socials:
